@@ -10,7 +10,7 @@ Me and Jennifer had a brainstorming session to come up with ideas to approach th
 
 <img   src="https://github.com/patelnehap/Amazon_Vine_Analysis/blob/main/Images/GreaterThan20.JPG"  alt="Greater Than 20"  title="Greater than 20" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-Also we needed to filter the dataset to a ratio of helpful votes to Ttoal votes by more than 50%.
+Also we needed to filter the dataset to a ratio of helpful votes to Total votes by more than 50%.
 
 <img   src="https://github.com/patelnehap/Amazon_Vine_Analysis/blob/main/Images/HelpfulVotes.JPG"  alt="Helpful Votes"  title="Helpful Votes" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
