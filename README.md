@@ -8,16 +8,16 @@ SellBy pays a small fee to Amazon and provides their products to Amazon Vine mem
 ## Results
 Me and Jennifer had a brainstorming session to come up with ideas to approach the ask. We finally decided to set the threshold for the members who had voted for a total of 20 times or more. 
 
-<img   src="https://github.com/patelnehap/MechaCar_Statistical_Analysis/blob/main/Images/Linear_Regression_1.JPG"  alt="LM Analysis"  title="LM Analysis" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img   src="https://github.com/patelnehap/Amazon_Vine_Analysis/blob/main/Images/GreaterThan20.JPG"  alt="Greater Than 20"  title="Greater than 20" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Also we needed to filter the dataset to a ratio of helpful votes to Ttoal votes by more than 50%.
 
-<img   src="https://github.com/patelnehap/MechaCar_Statistical_Analysis/blob/main/Images/Linear_Regression_1.JPG"  alt="LM Analysis"  title="LM Analysis" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img   src="https://github.com/patelnehap/Amazon_Vine_Analysis/blob/main/Images/HelpfulVotes.JPG"  alt="Helpful Votes"  title="Helpful Votes" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Next we figured out the total number of reviewers and filtered the vine and non vine members out in the dataset.
 Next we queried the dataset to get the 5 star vine and non vine member reviews and calculated the percentage of the 5 star reviews respectively. Below are the results:
 
-<img   src="https://github.com/patelnehap/MechaCar_Statistical_Analysis/blob/main/Images/Linear_Regression_1.JPG"  alt="LM Analysis"  title="LM Analysis" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img   src="https://github.com/patelnehap/Amazon_Vine_Analysis/blob/main/Images/Total_Reviews.JPG"  alt="Total Reviews"  title="Total Reviews" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## Summary:
 
